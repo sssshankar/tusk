@@ -9,6 +9,10 @@ pastha
 chicken
 
 
+beans
+pizza
+
+
 
 
 
